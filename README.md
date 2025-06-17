@@ -11,9 +11,9 @@ The project demonstrates large-scale data processing, partitioning, aggregation,
 **NYC Taxi Trip Data (March 2016)**  
 🔗 Download link: [👉 Click Here to Download (Parquet)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
-- Format: `.parquet`
+- Format: `.csv`
 - Columns: `pickup_datetime`, `dropoff_datetime`, `trip_distance`, `fare_amount`, `payment_type`, etc.
-- Size: Approx 1.5GB
+- Size: Approx 21 GB
 
 ---
 
